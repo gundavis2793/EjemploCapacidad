@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:circleImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local="clr-namespace:App_Utb"
+             x:Class="App_Utb.PaginaCarrera">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+
+        <ContentPage x:Name="Nombressss">
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+                <Grid>
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- 1RA FILA IMAGEN -->
+
+                    <!-- 2DA FILA TITULO -->
+
+                        <Label Text="CARRERAS" Grid.Row="0"
+                               Style="{StaticResource TextoTitulo}"/>
+
+                    <!-- 3RA FILA CONTENIDO -->
+
+                    <ScrollView Grid.Row="1">
+                        <ListView  x:Name="ListaCarreras"
+                                ItemsSource="{Binding ListaCarreras}"
+                                VerticalOptions="FillAndExpand"
+                                ItemTapped="ListaCarreras_ItemTapped"
+                                HasUnevenRows="true"
+                                RefreshControlColor="Black"
+                                SeparatorVisibility="None">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <ViewCell>
+                                        <Grid Margin="15,4,15,4">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="AUTO"/>
+                                            </Grid.ColumnDefinitions>
+                                            <circleImage:CircleImage
+                                                Grid.Column="0"
+                                                Aspect="AspectFill"
+                                                HeightRequest="{StaticResource Tamaño}"
+                                                HorizontalOptions="Center"
+                                                Source="{Binding icono}"
+                                                VerticalOptions="Start" 
+                                                WidthRequest="{StaticResource Tamaño}">
+                                            </circleImage:CircleImage>
+                                            <StackLayout
+                                                Grid.Column="1"
+                                                Style="{StaticResource TexTituloLista}">
+                                                <Label Style="{StaticResource TituloTextList}" 
+                                                    Text="{Binding nombre}"/>
+                                                <Label Style="{StaticResource SubtiTextList}"
+                                                    Text="{Binding licen}" />
+
+                                            </StackLayout>
+                                            <Image Style="{StaticResource ImagenSig}"
+                                                   Grid.Row="0"/>
+
+                                            <BoxView x:Name="LineaBox" 
+                                                Style="{StaticResource LineaDiv}"
+                                                     />
+                                            <BoxView x:Name="SombraBox"
+                                                Style="{StaticResource LineaSombra}"
+                                                     BackgroundColor="{Binding imanuevo}"/>
+
+                                        </Grid>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </ScrollView>
+                    <!-- 3RA Pie de Pagina -->
+                    <ImageButton   Style="{StaticResource EstiloBoton}"
+                                   Grid.Row="1"
+                                   Clicked="AccesoDirecto"/>
+
+                </Grid>
+                
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

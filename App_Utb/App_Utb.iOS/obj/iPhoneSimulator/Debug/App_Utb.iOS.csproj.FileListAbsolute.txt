@@ -1,0 +1,986 @@
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\DESARROLLOAPP\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\aplicacion1.1.2\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\WebP.Touch.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe.CodeAnalysisLog.xml
+C:\Desarrollo\aplicacion 1.1.4\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe.lastcodeanalysissucceeded
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\WebP.Touch.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Platform.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.Platform.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Forms.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Platform.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FFImageLoading.Svg.Forms.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\13 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.DataSource.Portable.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.GridCommon.Portable.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.SfListView.XForms.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.SfListView.XForms.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\PanCardView.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.Abstractions.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\CarouselView.FormsPlugin.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\FirebaseAdmin.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Firebase.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Api.Gax.Rest.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Auth.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Google.Apis.Core.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\LiteDB.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Microcharts.Forms.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Permissions.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.IOS.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Rg.Plugins.Popup.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SkiaSharp.Views.Forms.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Collections.Immutable.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Interactive.Async.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\System.Reactive.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.Abstractions.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Connectivity.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.Media.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ImageCircle.Forms.Plugin.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Plugin.InputKit.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.OpenWhatsApp.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PancakeView.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.PinchZoomImage.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CopyComplete
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.exe
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\obj\iPhoneSimulator\Debug\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Licensing.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb.iOS\bin\iPhoneSimulator\Debug\App_Utb.dll.mdb

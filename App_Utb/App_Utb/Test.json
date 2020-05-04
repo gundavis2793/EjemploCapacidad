@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "pregunta": "A parte de los libros que te mandan en la escuela \u00bf con qu\u00e9 frecuencia lees ?",
+    "primero": "Nunca",
+    "segundo": "De vez en cuando",
+    "tercero": "Siempre que tengo ocasi\u00f3n"
+  },
+  {
+    "id": 2,
+    "pregunta": "\u00bf Qu\u00e9 haces cuando est\u00e1s enfermo y te mandan a tomar un medicamento?",
+    "primero": "Sencillamente lo tomo",
+    "segundo": "Miro qu\u00e9 contraindicaciones puede tener",
+    "tercero": "Leo el pronostico de arriba a abajo"
+  },
+  {
+    "id": 3,
+    "pregunta": "Tu nota media de matem\u00e1ticas en la preparatoria fue de:",
+    "primero": "Entre 5 y 6,9",
+    "segundo": "Entre 7 y 8,9",
+    "tercero": "Entre 9 y 10"
+  },
+  {
+    "id": 4,
+    "pregunta": "El trato con animales:",
+    "primero": "Me es indiferente",
+    "segundo": "Me resulta interesante",
+    "tercero": "Me encanta"
+  },
+  {
+    "id": 5,
+    "pregunta": "Del 1 al 10 \u00bfcon qu\u00e9 soltura te desenvuelves con la computadora?",
+    "primero": "Del 0 al 5",
+    "segundo": "Del 5 al 7",
+    "tercero": "Del 7 al 10"
+  },
+  {
+    "id": 6,
+    "pregunta": "\u00bfEstar\u00edas de acuerdo en trabajar en una revista de econom\u00eda escribiendo art\u00edculos?",
+    "primero": "Preferir\u00eda no tener que hacerlo",
+    "segundo": "S\u00ed, me gustar\u00eda",
+    "tercero": "Ser\u00eda un trabajo muy gratificante"
+  },
+  {
+    "id": 7,
+    "pregunta": "\u00bfTe interesa saber c\u00f3mo funcionan aparatos que usas a diario como el celular, la televisi\u00f3n o la computadora?",
+    "primero": "Nada",
+    "segundo": "Algo",
+    "tercero": "Mucho"
+  },
+  {
+    "id": 8,
+    "pregunta": "Cuando quieres comprarte algo:",
+    "primero": "Pides todo el dinero a tus padres",
+    "segundo": "Pides una parte del dinero a tus padres",
+    "tercero": "Ahorras y lo compras cuando haya reunido todo el dinero"
+  },
+  {
+    "id": 9,
+    "pregunta": "En general \u00bfte gusta resolver problemas matem\u00e1ticos?",
+    "primero": "Nada",
+    "segundo": "Algo",
+    "tercero": "Mucho"
+  },
+  {
+    "id": 10,
+    "pregunta": "El funcionamiento de la c\u00e9lula te parece:",
+    "primero": "Indiferente",
+    "segundo": "Interesante",
+    "tercero": "Fascinante"
+  },
+  {
+    "id": 11,
+    "pregunta": "\u00bfPerteneces a alguna asociaci\u00f3n de ayuda social?",
+    "primero": "No entra en mis planes",
+    "segundo": "Es algo que quiero hacer m\u00e1s adelante",
+    "tercero": "Ya particip\u00f3 activamente en una"
+  },
+  {
+    "id": 12,
+    "pregunta": "Los art\u00edculos de divulgaci\u00f3n cient\u00edfica te parecen:",
+    "primero": "Aburridos",
+    "segundo": "Entretenidos",
+    "tercero": "Muy interesantes"
+  },
+  {
+    "id": 13,
+    "pregunta": "En general \u00bfhas obtenido buenas calificaciones en actividades de laboratorio?",
+    "primero": "Regulares",
+    "segundo": "Buenas",
+    "tercero": "Muy buenas"
+  },
+  {
+    "id": 14,
+    "pregunta": "\u00bfTe gustar\u00eda estudiar en profundidad un idioma?",
+    "primero": "Me resulta aburrido",
+    "segundo": "Es algo que tengo planeado en el futuro",
+    "tercero": "Ya estoy haci\u00e9ndolo"
+  },
+  {
+    "id": 15,
+    "pregunta": "\u00bfC\u00f3mo te sientes cuando hablas en p\u00fablico?",
+    "primero": "Inc\u00f3modo",
+    "segundo": "No tengo ning\u00fan inconveniente en hacerlo con frecuencia",
+    "tercero": "Me encanta ser el centro de atenci\u00f3n"
+  },
+  {
+    "id": 16,
+    "pregunta": "\u00bfTratas de entender el comportamiento de tus amigos cuando surge un problema?",
+    "primero": "Es algo que no me preocupa",
+    "segundo": "Muestro cierta empat\u00eda",
+    "tercero": "Intento profundizar todo lo posible en el asunto"
+  },
+  {
+    "id": 17,
+    "pregunta": "Tu nota media de biolog\u00eda en la preparatoria fue de:",
+    "primero": "Entre 5 y 6'9",
+    "segundo": "Entre 7 y 8'9",
+    "tercero": "Entre 9 y 10"
+  },
+  {
+    "id": 18,
+    "pregunta": "\u00bfTe gusta la vida rural?",
+    "primero": "No, deseo vivir siempre en la ciudad",
+    "segundo": "No me importa pasar algunas temporadas en el campo",
+    "tercero": "Es un estilo de vida que me encanta"
+  },
+  {
+    "id": 19,
+    "pregunta": "Si te hacen una extracci\u00f3n de sangre:",
+    "primero": "Me mareo tan solo de ver la aguja",
+    "segundo": "Me siento tranquilo",
+    "tercero": "Converso con la enfermera"
+  },
+  {
+    "id": 20,
+    "pregunta": "\u00bfTe consideras una persona creativa e imaginativa?",
+    "primero": "Poco",
+    "segundo": "Algo",
+    "tercero": "Mucho"
+  },
+  {
+    "id": 21,
+    "pregunta": "\u00bfTienes un registro personal de gastos?",
+    "primero": "No, no lo necesito",
+    "segundo": "S\u00ed, anoto las cosas m\u00e1s importantes",
+    "tercero": "S\u00ed, tengo un registro muy detallado"
+  },
+  {
+    "id": 22,
+    "pregunta": "Las t\u00e9cnicas de primeros auxilios...",
+    "primero": "...no tengo pensado aprenderlas",
+    "segundo": "...me parecen importantes",
+    "tercero": "...las conozco a la perfecci\u00f3n"
+  },
+  {
+    "id": 23,
+    "pregunta": "Cuando un amigo no entiende algo:",
+    "primero": "Ignoro su problema",
+    "segundo": "Le explico las cosas por encima",
+    "tercero": "Le ayudo hasta que lo comprende por completo"
+  },
+  {
+    "id": 24,
+    "pregunta": "En comparaci\u00f3n con gente de tu edad, destacas en m\u00fasica, creatividad u otra forma de arte.",
+    "primero": "Nada",
+    "segundo": "Algo",
+    "tercero": "Mucho"
+  },
+  {
+    "id": 25,
+    "pregunta": "\u00bfQu\u00e9 haces si sientes alguna dolencia?",
+    "primero": "La ignoro a menos que permanezca de manera prolongada",
+    "segundo": "Voy al doctor en un plazo razonable",
+    "tercero": "Busco informaci\u00f3n en Internet, consulto a alg\u00fan conocido y voy al doctor"
+  },
+  {
+    "id": 26,
+    "pregunta": "Cuando tienes que explicar algo a otra persona...",
+    "primero": "...me desespero si no me entiende a la primera",
+    "segundo": "...trato de ser claro",
+    "tercero": "...se lo repito con calma las veces que haga falta"
+  },
+  {
+    "id": 27,
+    "pregunta": "\u00bf Con qu\u00e9 frecuencia visitas una exposici\u00f3n art\u00edstica?",
+    "primero": "Nunca",
+    "segundo": "Cuando me parece interesante",
+    "tercero": "Siempre que tengo ocasi\u00f3n"
+  },
+  {
+    "id": 28,
+    "pregunta": "\u00bfQu\u00eb haces cuando se descompone alg\u00fan electrodom\u00e9stico en casa?",
+    "primero": "Lo llevo al servicio t\u00e9cnico",
+    "segundo": "Trato de repararlo",
+    "tercero": "Leo el instructivo, busco informaci\u00f3n en Internet y hago todo lo posible por arreglarlo"
+  },
+  {
+    "id": 29,
+    "pregunta": "Cuando sales con los amigos...",
+    "primero": "...tratas de evitar ir a bailar",
+    "segundo": "...no te desagrada tener que ir a bailar",
+    "tercero": "...propones con frecuencia ir a bailar"
+  },
+  {
+    "id": 30,
+    "pregunta": "\u00bfTrabajar\u00edas en tus ratos libres como profesor particular?",
+    "primero": "Bajo ning\u00fan concepto",
+    "segundo": "Lo har\u00eda en caso de que necesitara el dinero",
+    "tercero": "Sin ninguna duda"
+  },
+  {
+    "id": 31,
+    "pregunta": "\u00bfQu\u00e9 haces cuando tienes una meta bien definida?",
+    "primero": "Espero tener suerte para alcanzarla",
+    "segundo": "Me esfuerzo por lograrla",
+    "tercero": "Me trazo un plan bien detallado para alcanzarla"
+  },
+  {
+    "id": 32,
+    "pregunta": "\u00bfPrefieres trabajar con m\u00e1quinas o con personas?",
+    "primero": "Con personas, siempre",
+    "segundo": "Me es indiferente, aunque utilizo con soltura las m\u00e1quinas",
+    "tercero": "Con m\u00e1quinas, siempre"
+  }
+]

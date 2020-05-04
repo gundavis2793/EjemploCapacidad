@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"     
+                            
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local="clr-namespace:App_Utb"
+             x:Class="App_Utb.PaginaTest">
+
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+                <Grid>
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="150"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+
+
+                    <!-- 1RA FILA IMAGEN -->
+
+                    <StackLayout  Grid.Row="0" HeightRequest="150">
+                        <Image Source="EncaTest" Margin="8" />
+                    </StackLayout>
+
+                    <!-- 2DA FILA TITULO -->
+
+                    <StackLayout Style="{StaticResource EstiloTitulo}" Grid.Row="1">
+                        <Label Text="TEST VOCACIONAL"
+                               Style="{StaticResource TextoTitulo}"/>
+                        <Label Style="{StaticResource SubTest}" FontSize="15"/>
+                        <BoxView HeightRequest="10"/>
+                        <Button Text="INICIAR TEST" HeightRequest="70" WidthRequest="70"
+                                HorizontalOptions="Center" TextColor="#dbdbdb"
+                                FontAttributes="Bold"
+                                FontSize="12"
+                                FontFamily="FuenteBerlin"
+                                CornerRadius="90" Clicked="ButtonIniciarTest"
+                                BackgroundColor="#979797"/>
+                    </StackLayout>
+
+                    <!-- 3RA FILA CONTENIDO -->
+
+                    <ImageButton  Style="{StaticResource EstiloBoton }"
+                            Clicked="AccesoDirecto" Grid.Row="2"/>
+
+                </Grid>
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

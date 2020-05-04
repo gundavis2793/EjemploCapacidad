@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             x:Class="App_Utb.PaginaCargando">
+
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center"
+                 x:Name="CargarDatos">
+        <ActivityIndicator Color="#cb9a06" IsRunning="true" HeightRequest="70"/>
+        <BoxView HeightRequest="10"/>
+        <Label Text="Cargando Datos" TextColor="#fceec5" FontAttributes="Bold"
+               FontSize="20"/>
+    </StackLayout>
+</popup:PopupPage>

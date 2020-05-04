@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+            xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local="clr-namespace:App_Utb"
+            xmlns:behaviors1="clr-namespace:App_Utb.Behaviors"
+            xmlns:pinch="clr-namespace:Xamarin.Forms.PinchZoomImage;assembly=Xamarin.Forms.PinchZoomImage"
+            x:Class="App_Utb.Views.PaginaUbicacion">
+    <TabbedPage.Children>
+
+        <ContentPage Title="El Alto"
+                     BackgroundColor="#ededed">
+            <Grid Padding ="20">
+                <ContentView>
+                    <StackLayout>
+                        <maps:Map x:Name="MapElAto" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" ></maps:Map>
+                        <StackLayout Spacing="15" Padding="20" Orientation="Horizontal" VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                            <Button HorizontalOptions="EndAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Calle" Clicked="Street_OnClicked1" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50" Text="Hibrido" Clicked="Hybrid_OnClicked1" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="StartAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Satélite" Clicked="Satellite_OnClicked1" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ContentView>
+            </Grid>
+        </ContentPage>
+
+
+        <ContentPage Title="La Paz"
+                     BackgroundColor="#ededed">
+            <Grid Padding ="20">
+                <ContentView>
+                    <StackLayout>
+                        <maps:Map x:Name="MapLaPaz" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand"></maps:Map>
+
+                        <StackLayout Spacing="15" Padding="20" Orientation="Horizontal" VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                            <Button HorizontalOptions="EndAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Calle" Clicked="Street_OnClicked" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50" Text="Hibrido" Clicked="Hybrid_OnClicked" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="StartAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Satélite" Clicked="Satellite_OnClicked" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ContentView>
+            </Grid>
+
+        </ContentPage>
+
+        <ContentPage Title="Santa Cruz"
+                     BackgroundColor="#ededed">
+
+            <Grid Padding ="20"
+                  >
+                <ContentView >
+
+                    <StackLayout >
+                        <maps:Map x:Name="MapSantaCruz" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" 
+                                  ></maps:Map>
+                        <StackLayout Spacing="15" Padding="20" Orientation="Horizontal" VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                            <Button HorizontalOptions="EndAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Calle" Clicked="Street_OnClicked2" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50" Text="Hibrido" Clicked="Hybrid_OnClicked2" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                            <Button HorizontalOptions="StartAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Satélite" Clicked="Satellite_OnClicked2" CornerRadius="90" BackgroundColor="Black" TextColor="White"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ContentView>
+            </Grid>
+        </ContentPage>
+    </TabbedPage.Children>
+</TabbedPage>  

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:App_Utb"
+                  xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+                  x:Class="App_Utb.PaginaCalendario">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            
+                <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+                <Image Style="{StaticResource Construccion}"/>
+            </pancake:PancakeView>
+           
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

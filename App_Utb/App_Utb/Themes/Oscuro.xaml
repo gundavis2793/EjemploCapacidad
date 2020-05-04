@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ResourceDictionary xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App_Utb.Themes.Oscuro">
+    <!--0 ICONOS  -->
+
+    <Style x:Key="Noti1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialNoticias"/>
+    </Style>
+    <Style x:Key="Materia1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="materia"/>
+    </Style>
+    <Style x:Key="Deuda1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="deuda"/>
+    </Style>
+    <Style x:Key="Car1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialCarrera"/>
+    </Style>
+    <Style x:Key="Taller1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialSeminario"/>
+    </Style>
+
+    <!--0.1 ICONOS  -->
+    <Style x:Key="Ubica1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialUbicacion"/>
+    </Style>
+    <Style x:Key="Depo1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialDeporte"/>
+    </Style>
+    <Style x:Key="Posg1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialPostgrado"/>
+    </Style>
+    <!--0.2 ICONOS  -->
+    <Style x:Key="Test1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialTest"/>
+    </Style>
+    <Style x:Key="Multi1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialMultimedia"/>
+    </Style>
+    <Style x:Key="Sistema1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialLogin"/>
+    </Style>
+    <!--0.3 ICONOS  -->
+    <Style x:Key="Registro1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialSistema"/>
+    </Style>
+    <Style x:Key="Notifi1" TargetType="Image">
+        <Setter Property="Margin" Value="10,-10,10,10"/>
+        <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+        <Setter Property="VerticalOptions" Value="Start"/>
+        <Setter Property="Source" Value="InicialNotificacion"/>
+    </Style>
+
+
+    <!--1 COLOR DE FONDO -->
+    <Color x:Key="Deagrado1">#393939</Color>
+    <Color x:Key="Deagrado2">#393939</Color>
+
+    <!--2 MENU -->
+    <Color x:Key="MenuEnca">#303030</Color>
+    <Color x:Key="MenuConte">#3f3f3f</Color>
+    <Color x:Key="MenuTitulo">#a8a8a8</Color>
+    <Color x:Key="MenuContenido">#b78b14</Color>
+
+    <!--3 PAGINA INICIO -->
+    <Color x:Key="IniTexto">#cbcbcb</Color>
+
+    <!--4 PAGINA NOTICIAS-CARRERA -->
+    <Color x:Key="NotiFondo">#868689</Color>
+    <Color x:Key="NotiTitulo">#ffffff</Color>
+    <Color x:Key="NotiConte">#a8a8a8</Color>
+    <Color x:Key="NotiSubcont">#b78b14</Color>
+
+    <!--4 PAGINA MOSTRAR NOTICIA -->
+    <Color x:Key="MosNotFonFecha">#c2a659</Color>
+    <Color x:Key="MosNotTexFecha">#3e3e3f</Color>
+    <Color x:Key="MosNotConte">#a8a8a8</Color>
+
+    <!--5 PAGINA MOSTRAR CARRERA -->
+    <Color x:Key="MosCarBotFondo">#2d2b2b</Color>
+    <Color x:Key="MosCarBotBorde">#66676C</Color>
+    <Color x:Key="MosCarBotTexto">#b78b14</Color>
+    <Color x:Key="MosCarTexto">#a8a8a8</Color>
+
+    <!--6 COLORES DE NAVEGACION -->
+    <Color x:Key="NavigationBarColor">#66676c</Color>
+    <Color x:Key="SecondaryColor">White</Color>
+
+    <!--7 PAGINA LATERIAL HACERCA DE... -->
+    <Color x:Key="HacerTitulo">#c7c7c7</Color>
+    <Color x:Key="HacerContenido">#a8a8a8</Color>
+
+    <!--8 PAGINA MOSTRAR CARRERA BOTONO MALLAS -->
+    <Color x:Key="CarMall">#acacac</Color>
+    <Color x:Key="CarMallTexto">#383838</Color>
+
+    <!--9 PAGINA MENU LATERAL ICONOS-->
+    <Style x:Key="Usuario1" TargetType="ImageButton" >
+        <Setter Property="Source" Value="MenuUsu1.png"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="BackgroundColor" Value="Transparent"/>
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="HeightRequest" Value="20.5"/>
+    </Style>
+    <Style x:Key="Info1" TargetType="ImageButton" >
+        <Setter Property="Source" Value="MenuInfo1.png"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="BackgroundColor" Value="Transparent"/>
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="HeightRequest" Value="20.5"/>
+    </Style>
+    <Style x:Key="Config1" TargetType="ImageButton" >
+        <Setter Property="Source" Value="MenuConfi1.png"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="BackgroundColor" Value="Transparent"/>
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="HeightRequest" Value="20.5"/>
+    </Style>
+    <Style x:Key="Cerrar1" TargetType="ImageButton" >
+        <Setter Property="Source" Value="MenuCerrarr1.png"/>
+        <Setter Property="HorizontalOptions" Value="Center"/>
+        <Setter Property="BackgroundColor" Value="Transparent"/>
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="HeightRequest" Value="20.5"/>
+    </Style>
+
+    <!--10 RADIOBOTON COLORES-->
+    <Color x:Key="RadioColor">#66676c</Color>
+    <Color x:Key="RadioTexto">#a8a8a8</Color>
+
+    <!--11 Colores texo lista de estudiantes-->
+    <Color x:Key="LsitaEstudiante">#ffffff</Color>
+    
+    <!--11 Colores texo lista de estudiantes-->
+    <Color x:Key="NotaEnca">#e0e0e0</Color>
+    <Color x:Key="NotaTexto">#e4e4e4</Color>
+
+</ResourceDictionary>

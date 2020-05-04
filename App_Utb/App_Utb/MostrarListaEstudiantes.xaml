@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.MostrarListaEstudiantes">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+    <ContentPage>
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+                <Grid>
+                    
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- 1RA FILA IMAGEN -->
+
+                    <!-- 2DA FILA TITULO -->
+
+                    <Label Text="LISTA DE ESTUDIANTES " Grid.Row="0" Grid.ColumnSpan="3"
+                           Style="{StaticResource TextoTitulo}"/>
+
+                    <!-- 3RA FILA CONTENIDO -->
+                    <Label x:Name="LabelNombrePta" Text="AP PATERNO"
+                       Grid.Row="1" Grid.Column="0"
+                       Style="{StaticResource TextoTitulo}"
+                       FontSize="Medium"
+                       HorizontalOptions="Start"
+                       Padding="3,3,3,3"/>
+                    <Label x:Name="LabelNombreMat" Text="AP MATERNO"
+                       Grid.Row="1" Grid.Column="1"
+                       Style="{StaticResource TextoTitulo}"
+                       FontSize="Medium"
+                       HorizontalOptions="Start"
+                       Padding="3,3,3,3"/>
+                    <Label x:Name="LabelNombre" Text="NOMBRES"
+                       Grid.Row="1" Grid.Column="2"
+                       Style="{StaticResource TextoTitulo}"
+                       FontSize="Medium"
+                       HorizontalOptions="Start"
+                       Padding="3,3,3,3"/>
+
+                    <ScrollView Grid.Row="2" Grid.ColumnSpan="3">
+                        <ListView ItemsSource="{Binding .}"
+                         HasUnevenRows="False"
+                         Margin="10,0,10,0"
+                         x:Name="ListViewaaa"
+                         RefreshControlColor="Black"
+                         SeparatorVisibility="None">
+                            
+                            <ListView.ItemTemplate>
+                                <DataTemplate >
+                                    <ViewCell >
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="*"/>
+                                            </Grid.RowDefinitions>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Label Text="{Binding ap_paterno}"
+                                           Grid.Row="0" Margin="15,0,0,0"
+                                           Grid.Column="0" FontAttributes="Bold"
+                                           TextType="Html" TextColor="{DynamicResource MosCarTexto}"
+                                           VerticalTextAlignment="Center"
+                                           HorizontalTextAlignment="Start"/>
+
+                                            <Label Text="{Binding ap_materno}"
+                                           x:Name="LabelTitulo" FontAttributes="Bold"
+                                            Grid.Column="1" TextColor="{DynamicResource MosCarTexto}"
+                                            Grid.Row="0"
+                                           VerticalTextAlignment="Center"
+                                           HorizontalTextAlignment="Start"/>
+                                            
+                                            <Label Text="{Binding nombre,Mode=OneTime}"
+                                           VerticalTextAlignment="Center" Margin="0,0,8,0"
+                                           TextColor="{DynamicResource MosCarTexto}"
+                                           Grid.Column="2" FontAttributes="Bold"
+                                           HorizontalTextAlignment="Start"></Label>
+                                            
+                                            <!--<BoxView 
+                                                Style="{StaticResource LineaSombra}"/>-->
+                                            <BoxView
+                                                Style="{StaticResource LineaDiv}"/>
+                                        </Grid>
+                                    </ViewCell>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </ScrollView>
+                    <!-- 3RA Pie de Pagina -->
+                    <ImageButton   Style="{StaticResource EstiloBoton}"
+                                   Grid.Row="2" Grid.ColumnSpan="3"
+                                 Clicked="AccesoDirecto" />
+
+                </Grid>
+
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

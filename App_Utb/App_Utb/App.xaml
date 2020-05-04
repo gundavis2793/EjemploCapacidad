@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.App">
+    
+    <Application.Resources>
+        <ResourceDictionary Source="Themes/Original.xaml"/>
+
+        <!--1 ESTILO PAGINA -->
+        <Style TargetType="NavigationPage">
+            <Setter Property="BarBackgroundColor"
+                    Value="{DynamicResource NavigationBarColor}" />
+            <Setter Property="BarTextColor"
+                    Value="{DynamicResource SecondaryColor}" />
+        </Style>
+   
+        <!--1 ESTILO PAGINA -->
+        <Style x:Key="EstiloImagen" TargetType="StackLayout">
+            <Setter Property="Margin" Value="8"/>
+            <Setter Property="Grid.Row" Value="0"/>
+            <Setter Property="BackgroundColor" Value="#a3a4a8"/>
+        </Style>
+
+        <Style x:Key="EstiloTitulo" TargetType="StackLayout">
+            <Setter Property="Grid.Row" Value="1"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+
+        <Style x:Key="EstiloContenido" TargetType="StackLayout">
+            <Setter Property="Margin" Value="8"/>
+            <Setter Property="Grid.Row" Value="2"/>
+        </Style>
+
+        <Style x:Key="ColorFondo" TargetType="pancake:PancakeView" >
+            <Setter Property="BackgroundGradientAngle" Value="0"/>
+            <Setter Property="BackgroundGradientEndColor" Value="{DynamicResource Deagrado2}"/>
+            <Setter Property="BackgroundGradientStartColor" Value="{DynamicResource Deagrado1}"/>
+            <!--#f4b518-->
+        </Style>
+
+        <!--2 ESTILO BOTON -->
+        <Style x:Key="EstiloBoton" TargetType="ImageButton" >
+            <Setter Property="Grid.Row" Value="2"/>
+            <Setter Property="HeightRequest" Value="40"/>
+            <Setter Property="WidthRequest" Value="40"/>
+            <Setter Property="HorizontalOptions" Value="End" />
+            <Setter Property="VerticalOptions" Value="End"/>
+            <Setter Property="CornerRadius" Value="90"/>
+            <Setter Property="Margin" Value="0,-5,8,0"/>
+            <Setter Property="Source" Value="PieIcon1"/>
+            <Setter Property="BackgroundColor" Value="Transparent" />
+        </Style>
+
+        <!--3 ESTILO PAGINA PINCIPAL ICONOS-->
+        <Style x:Key="EstiloInicio" TargetType="StackLayout">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="10"/>
+        </Style>
+
+        <Style x:Key="EstiloIconos" TargetType="Image">
+            <Setter Property="Margin" Value="10,-10,10,10"/>
+            <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            <Setter Property="VerticalOptions" Value="Start"/>
+
+        </Style>
+        
+        <!--4 ESTILO PAGINA PINCIPAL TEXTOS-->
+        
+        <OnPlatform x:Key="FuenteBerlin" x:TypeArguments="x:String">
+            <On Platform="iOS" Value="Old Standard TT" />
+            <On Platform="Android" Value="berlin.TTF#berlin"/>
+        </OnPlatform>
+
+        <Style x:Key="TextoIcono" TargetType="Label">
+            <Setter Property="FontFamily" Value="{StaticResource FuenteBerlin}" />
+            <Setter Property="TextColor" Value="{DynamicResource IniTexto}" />
+            <Setter Property="HorizontalTextAlignment"  Value="Center"/>
+            <Setter Property="FontSize" Value="11"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="Margin" Value="0,-10,0,0"/>
+        </Style>
+
+        <!--5 ESTILO TTITULOS DE PAGINAS-->
+
+        <OnPlatform x:Key="FuenteMade" x:TypeArguments="x:String">
+            <On Platform="iOS" Value="Old Standard TT" />
+            <On Platform="Android" Value="MadeFlorenceSans.otf#MadeFlorenceSans"/>
+        </OnPlatform>
+        <Style x:Key="TextoTitulo" TargetType="Label">
+            <Setter Property="FontFamily" Value ="{StaticResource FuenteMade}" />
+            <Setter Property="TextColor" Value="{DynamicResource NotiTitulo}" />
+            <Setter Property="HorizontalTextAlignment"  Value="Center"/>
+            <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            <Setter Property="FontSize" Value="35"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+            <Setter Property="Margin" Value="10,7,10,0"/>
+            <Setter Property="BackgroundColor" Value="{DynamicResource NotiFondo}"/>
+            <Setter Property="Opacity" Value="0.7"/>
+        </Style>
+
+        <!--6 ESTILO CONTENIDO LISTAS DE NOTICIAS-->
+
+        <!--6.1 ESTILO CONTENIDO LISTAS CIRCLE-->
+
+        <x:Double x:Key="Tamaño">50</x:Double>
+
+        <!--6.2 TEXTOS-->
+        
+        <Style x:Key="TexTituloLista" TargetType="StackLayout">
+            <Setter Property="Margin"  Value="20,0,0,0"/>
+            <Setter Property="VerticalOptions"  Value="Center" />
+            <Setter Property="Margin" Value="10"/>
+        </Style>
+
+        <Style x:Key="TituloTextList" TargetType="Label">
+            <Setter Property="FontFamily" Value="{StaticResource FuenteMade}" />
+            <Setter Property="FontSize" Value="Medium" />
+            <Setter Property="TextColor" Value="{DynamicResource NotiConte}"/>
+        </Style>
+
+        <Style x:Key="SubtiTextList" TargetType="Label">
+            <Setter Property="FontFamily" Value="{StaticResource FuenteBerlin}" />
+            <Setter Property="FontSize" Value="Small" />
+            <Setter Property="TextColor" Value="{DynamicResource NotiSubcont}"/>
+            <Setter Property="Margin" Value="0,-5,0,0"/>
+        </Style>
+
+        <!--6.2 IMAGEN SIGUIENTE-->
+
+        <Style x:Key="ImagenSig" TargetType="Image">
+            <Setter Property="Source" Value="Siguiente"/>
+            <Setter Property="Opacity" Value="0.5"/>
+            <Setter Property="Margin" Value="0,0,10,0"/>
+            <Setter Property="Grid.Column" Value="2"/>
+        </Style>
+        
+
+        <!--6.3 LINEA DE DIVICION -->
+
+        <Style x:Key="LineaDiv" TargetType="BoxView">
+            <Setter Property="BackgroundColor" Value="#66676C"/>
+            <Setter Property="HeightRequest" Value="1"/>
+            <Setter Property="VerticalOptions" Value="End" />
+            <Setter Property="Margin" Value="15,5,15,0"/>
+            <Setter Property="Grid.ColumnSpan" Value="3"/>
+        </Style>
+
+        <!--6.3 LINEA DE DIVICION SOMBRA -->
+
+        <Style x:Key="LineaSombra" TargetType="BoxView">
+            <Setter Property="BackgroundColor" Value="#66676C"/>
+            <Setter Property="HeightRequest" Value="5"/>
+            <Setter Property="VerticalOptions" Value="End" />
+            <Setter Property="Margin" Value="15,5,15,0"/>
+            <Setter Property="Opacity" Value="0.2"/>
+            <Setter Property="Grid.ColumnSpan" Value="3"/>
+        </Style>
+
+        <!--7 sub titulo texto test -->
+
+        <Style x:Key="SubTest" TargetType="Label">
+            <Setter Property="Text" Value="Este es el test de orientación vocacional general. No importa la edad que tengas, este test vocacional es válido tanto para adolescentes como para adultos. Cuenta tus aptitudes, habilidades y personalidad para poder configurar un mapa muy concreto sobre tus capacidades en el ámbito laboral."/>
+            <Setter Property="FontFamily" Value="{StaticResource FuenteBerlin}" />
+            <Setter Property="TextColor" Value="#66676C"/>
+            <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+            <Setter Property="HorizontalOptions" Value="CenterAndExpand" />
+            <Setter Property="Margin" Value="8,0,8,0"/>
+            <Setter Property="FontAttributes" Value="Bold" />
+        </Style>
+
+        <!--8 sub titulo texto test -->
+
+        <Style x:Key="Preguntas" TargetType="Label" >
+            <Setter Property="FontAttributes" Value="{StaticResource FuenteBerlin}"/>
+            <Setter Property="TextColor" Value="#66676C"/>
+            <Setter Property="VerticalOptions" Value="CenterAndExpand" />
+            <Setter Property="HorizontalOptions" Value="Fill"/>
+            <Setter Property="Margin" Value="10,0,10,0"/>
+            <Setter Property="FontAttributes" Value="Bold"/>
+
+        </Style>
+
+        <!--9 sub titulo texto test -->
+
+        <Style x:Key="TextoCarreras" TargetType="Label">
+            <Setter Property="FontAttributes" Value="{StaticResource FuenteBerlin}" />
+            <Setter Property="VerticalOptions" Value="CenterAndExpand"/>
+            <Setter Property="HorizontalOptions" Value="CenterAndExpand"/>
+            <Setter Property="LineBreakMode" Value="TailTruncation"/>
+            <Setter Property="MaxLines" Value="0"/>
+            <Setter Property="IsVisible"  Value="False"/>
+            <Setter Property="TextColor" Value="{DynamicResource MosCarTexto}"/>
+        </Style>
+
+        <!--10 estilo carreras botones  -->
+        
+        <Style x:Key="BotonCarrera" TargetType="Button">
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="BorderColor" Value="{DynamicResource MosCarBotBorde}"/>
+            <Setter Property="BorderWidth" Value="1"/>
+            <Setter Property="BackgroundColor" Value="{DynamicResource MosCarBotFondo}"/>
+            <Setter Property="Margin" Value="20,0,20,0"/>
+            <Setter Property="TextColor" Value="{DynamicResource MosCarBotTexto}"/>
+        </Style>
+
+        <!--11 estilo boton imagen sunir texto-->
+        <Style x:Key="subir" TargetType="ImageButton">
+            <Setter Property="Source" Value="FlechaArriba"/>
+            <Setter Property="CornerRadius" Value="90"/>
+            <Setter Property="HeightRequest" Value="30"/>
+            <Setter Property="WidthRequest" Value="30"/>
+            <Setter Property="Opacity" Value="0.5"/>
+            <Setter Property="Margin" Value="0,-5,30,0"/>
+            <Setter Property="BackgroundColor" Value="Transparent" />
+            <Setter Property="HorizontalOptions" Value="End"/>
+            <Setter Property="VerticalOptions" Value="End" />
+            <Setter Property="IsVisible" Value="False" />
+        </Style>
+
+        <!--11 estilo boton imagen sunir texto-->
+
+        <Style x:Key="Construccion" TargetType="Image" >
+            <Setter Property="Source" Value="Construccion2"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center" />
+            <Setter Property="Margin" Value="8"/>
+        </Style>
+
+
+        <!--12 estilo botonos laterales menu -->
+
+        <Style x:Key="MenuTextos" TargetType="Label" >
+            <Setter Property="HorizontalOptions" Value="StartAndExpand" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="TextColor" Value="{DynamicResource MenuContenido}"/>
+        </Style>
+
+        <Style x:Key="MenuIconos" TargetType="ImageButton" >
+            <Setter Property="HorizontalOptions" Value="Center" />
+            <Setter Property="HeightRequest" Value="20" />
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="BackgroundColor" Value="Transparent"/>
+        </Style>
+
+    </Application.Resources>
+
+</Application>

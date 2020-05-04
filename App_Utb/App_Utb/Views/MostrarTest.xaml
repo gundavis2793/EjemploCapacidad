@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:microcharts="clr-namespace:Microcharts.Forms;assembly=Microcharts.Forms"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local="clr-namespace:App_Utb"
+             x:Class="App_Utb.MostrarTest">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="100"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+
+                    <Label Text="RESULTADOS" Grid.Row="0" 
+                               Style="{StaticResource TextoTitulo}"/>
+
+                    <StackLayout Grid.Row="1" BackgroundColor="Transparent">
+
+                        <microcharts:ChartView  x:Name="Grafica3" BackgroundColor="Transparent"
+                                                Rotation="-90" Margin="8,0,8,0"
+                                                HeightRequest="350" WidthRequest="1000"/>
+                    </StackLayout>
+
+                    <ImageButton  Style="{StaticResource EstiloBoton }" Grid.Row="1"
+                        Clicked="AccesoDirecto" />
+                </Grid>
+
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

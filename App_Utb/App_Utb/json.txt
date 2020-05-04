@@ -1,0 +1,1 @@
+{"verificacion_usuario":[{"usuario":"OMONRROY4927898","validado":"1","rol":"acad_docente","ap_paterno":"MONRROY","ap_materno":"SILVA","nombre":"OMAR BALTAZAR","periodo":"1","gestion":2013,"semestre_doc":3,"semestre_est":4}],"success":1} 

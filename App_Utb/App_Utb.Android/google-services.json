@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119570948300",
+    "firebase_url": "https://aplicacion-utb-d4b9c.firebaseio.com",
+    "project_id": "aplicacion-utb-d4b9c",
+    "storage_bucket": "aplicacion-utb-d4b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119570948300:android:b623e433fcd8dc04a92269",
+        "android_client_info": {
+          "package_name": "com.UtbDesarrollo.App_Utb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119570948300-l5m089mosia2bs155ib0kdd1jqvoaad2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwuNJBf5rqS2KZmPutYpNAb8rwG7PBjX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119570948300-l5m089mosia2bs155ib0kdd1jqvoaad2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

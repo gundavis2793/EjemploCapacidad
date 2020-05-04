@@ -1,0 +1,306 @@
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.iOS.exe
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.iOS.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Licensing.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.iOS.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\WebP.Touch.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ImageCircle.Forms.Plugin.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Platform.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Platform.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Forms.Platform.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Forms.Platform.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Forms.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Forms.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Svg.Platform.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Svg.Platform.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Svg.Forms.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FFImageLoading.Svg.Forms.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.InputKit.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.OpenWhatsApp.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\optimized\
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csprojAssemblyReference.cache
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\XamlC.stamp
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CopyComplete
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.exe
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.iOS.exe
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FirebaseAdmin.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Firebase.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.Rest.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.Rest.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.PlatformServices.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Core.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\LiteDB.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Permissions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.Views.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.Views.Forms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLite-net.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_green.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.sqlite3.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Licensing.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Collections.Immutable.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Interactive.Async.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Reactive.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.Abstractions.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.Abstractions.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Media.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ImageCircle.Forms.Plugin.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.InputKit.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Maps.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Maps.iOS.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.OpenWhatsApp.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.PinchZoomImage.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\optimized\
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csprojAssemblyReference.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CoreCompileInputs.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\XamlC.stamp
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CopyComplete
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.exe
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.iOS.exe
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\PanCardView.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.Abstractions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\CarouselView.FormsPlugin.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\FirebaseAdmin.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Firebase.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.Rest.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Api.Gax.Rest.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.PlatformServices.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Auth.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Google.Apis.Core.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\LiteDB.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Microcharts.Forms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Newtonsoft.Json.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Permissions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.IOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Rg.Plugins.Popup.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.Views.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SkiaSharp.Views.Forms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLite-net.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_green.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.batteries_v2.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\SQLitePCLRaw.provider.sqlite3.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Licensing.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Syncfusion.Core.XForms.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Collections.Immutable.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Interactive.Async.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\System.Reactive.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.Abstractions.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.Abstractions.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Connectivity.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.Media.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ImageCircle.Forms.Plugin.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Essentials.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Core.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Platform.iOS.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Xaml.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Plugin.InputKit.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Maps.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.Maps.iOS.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.OpenWhatsApp.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.PancakeView.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\Xamarin.Forms.PinchZoomImage.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb.iOS\bin\iPhone\Release\App_Utb.pdb
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\ibtool\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_PartialAppManifest.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\actool\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_PartialAppManifest.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\coremlc\_BundleResourceWithLogicalName.items
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\optimized\
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csprojAssemblyReference.cache
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CoreCompileInputs.cache
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\XamlC.stamp
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.csproj.CopyComplete
+C:\App_Utb\App_Utb\App_Utb.iOS\obj\iPhone\Release\App_Utb.iOS.exe

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.Views.IniciarTest">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="120"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+                    <Label FontSize="19" TextColor="{DynamicResource RadioTexto}"  
+                    x:Name="PreguntaTest" Grid.Row="0" Margin="8,30,8,0" FontAttributes="Bold"/>
+                    <input:RadioButtonGroupView x:Name="radiotest" 
+                                        Margin="12,0,8,0" Grid.Row="1">
+                        <input:RadioButton Clicked="BootonSiguiente1"
+                    CircleColor="#d48c02"
+                    TextFontSize="18"
+                    x:Name="test1"
+                    TextColor="{DynamicResource RadioTexto}"/>
+                        <BoxView HeightRequest="10"/>
+                        <input:RadioButton  Clicked="BootonSiguiente2"
+                    x:Name="test2"
+                    TextFontSize="18"
+                    TextColor="{DynamicResource RadioTexto}"
+                    CircleColor="#d48c02"/>
+                        <BoxView HeightRequest="10"/>
+                        <input:RadioButton  Clicked="BootonSiguiente3"
+                    x:Name="test3"
+                    TextFontSize="18" 
+                    TextColor="{DynamicResource RadioTexto}"
+                    CircleColor="#d48c02"/>
+                        <BoxView HeightRequest="50"/>
+                        <Label FontSize="20" BackgroundColor="#b8b7b4" FontAttributes="Bold"
+                x:Name="NumPregunta" WidthRequest="65" HorizontalOptions="End" TextColor="#424242"/>
+                    </input:RadioButtonGroupView>
+
+                    <ImageButton  Style="{StaticResource EstiloBoton }"
+                        Clicked="AccesoDirecto" Grid.Row="1"/>
+
+                </Grid>
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

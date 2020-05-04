@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:Local="clr-namespace:App_Utb"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             BindingContext="PiePagina"
+             xmlns:controls1="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             x:Class="App_Utb.MainPage"
+             Title="Mast"
+             xmlns:cv="clr-namespace:CarouselView.FormsPlugin.Abstractions;assembly=CarouselView.FormsPlugin.Abstractions"
+             xmlns:circleImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin">
+    <MasterDetailPage.Master >
+        <Local:Menu></Local:Menu>
+
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+
+        <ContentPage Title="PaginaPrin">
+
+            <pancake:PancakeView  Style="{StaticResource ColorFondo}">
+
+
+                <Grid>
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="15"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- 1RA FILA IMAGEN CAROUSEL -->
+
+                    <controls1:CarouselViewControl Grid.Row="0" Margin="0,8,0,0"
+                                          Orientation="Horizontal" 
+                                          InterPageSpacing="10" 
+                                          VerticalOptions="FillAndExpand" 
+                                          HorizontalOptions="FillAndExpand"
+                                          x:Name="listViewCarousal" 
+                                          ShowIndicators="True">
+                        <controls1:CarouselViewControl.ItemTemplate>
+                            <DataTemplate>
+                                <Image Source="{Binding .}" HeightRequest="200" Margin="8"/>
+                            </DataTemplate>
+                        </controls1:CarouselViewControl.ItemTemplate>
+                    </controls1:CarouselViewControl>
+
+                    <!-- 2DA FILA TITULO DE PAGINA -->
+
+                    <Label Text="Periodo Académico Activo: II-2019" Grid.Row="1" TextColor="{DynamicResource MenuTitulo}"
+                           x:Name="Periodo" FontAttributes="Bold" Style="{DynamicResource PerodoTexto}"
+                           Margin="7,0,0,0" />
+
+                    <!-- 3RA FILA CONTENIDO DE LA PAGINA -->
+                    <ScrollView Grid.Row="2">
+                        <Grid Margin="20,0,20,0">
+                            <Grid.ColumnDefinitions >
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="80"/>
+                                <RowDefinition Height="7"/>
+                                <RowDefinition Height="80"/>
+                                <RowDefinition Height="7"/>
+                                <RowDefinition Height="80"/>
+                                <RowDefinition Height="7"/>
+                                <RowDefinition Height="80"/>
+                                <RowDefinition Height="30"/>
+                            </Grid.RowDefinitions>
+                            <!-- 1RA FILA   -->
+                            <StackLayout x:Name="Notificaciones" Margin="10" Padding="10">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarNotificacion"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Notifi1}"/>
+                                <Label Text="Notificaciones" Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <StackLayout Margin="10" Padding="10" Style="{DynamicResource EstCar}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarCarrera" />
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Car1}"/>
+                                <Label Text="Carreras"  Style="{StaticResource TextoIcono}"/>
+                            </StackLayout>
+                            <StackLayout Margin="10" Padding="10" Style="{DynamicResource EstTest}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarTest"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Test1}"/>
+                                <Label Text="Test Vocacional" Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <!-- 2DA FILA  -->
+                            <StackLayout  Margin="10" Padding="10" Style="{DynamicResource Sist1}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarSistema"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image  Style="{DynamicResource Sistema1}"/>
+                                <Label Text="Sistema Academico" Style="{StaticResource TextoIcono}"/>
+                            </StackLayout>
+                            <StackLayout   Grid.Row="2" Grid.Column="1" Style="{StaticResource EstiloInicio}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarTalleres"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Taller1}"/>
+                                <Label Text="Talleres y Seminarios"  Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <StackLayout Grid.Row="2" Grid.Column="2" Style="{StaticResource EstiloInicio}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarPosgrado"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Posg1}"/>
+                                <Label Text="Postgrado" Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <!-- 3RA FILA  -->
+                            <StackLayout Grid.Row="4" Grid.Column="0" Style="{StaticResource EstiloInicio}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarUbicacion"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Ubica1}"/>
+                                <Label Text="Ubicación"  Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <StackLayout Margin="10" Padding="10" Style="{DynamicResource EstDeporte}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarDeportes"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Depo1}"/>
+                                <Label Text="Deportes"  Style="{StaticResource TextoIcono}" />
+                            </StackLayout>
+                            <StackLayout Margin="10" Padding="10" Style="{DynamicResource EstRegNuev}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarRegistro"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Registro1}"/>
+                                <Label Text="Registro Estudiantes Nuevos" Style="{StaticResource TextoIcono}" />
+
+                            </StackLayout>
+                            <!-- 4tA FILA  -->
+                            <StackLayout Grid.Row="2" Grid.Column="0" Style="{StaticResource EstiloInicio}">
+                                <Image Style="{DynamicResource Noti1}"/>
+                                <Label Text="Noticias"  Style="{StaticResource TextoIcono}"/>
+                                <StackLayout.GestureRecognizers>
+                                    <TapGestureRecognizer Tapped="IniciarNoticia" />
+                                </StackLayout.GestureRecognizers>
+                            </StackLayout>
+                            <StackLayout Margin="10" Padding="10" Style="{DynamicResource Doc4}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarMaterias"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Materia1}"/>
+                                <Label Text="Materias" Style="{StaticResource TextoIcono}"/>
+                            </StackLayout>
+                            <!--<StackLayout  Margin="10" Padding="10" Style="{DynamicResource Doc4}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarDeudas"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Deuda1}"/>
+                                <Label Text="Deudas Pendientes" Style="{StaticResource TextoIcono}"/>
+                            </StackLayout>-->
+
+                            <!--<StackLayout Margin="10" Padding="10" Style="{DynamicResource Mult1}">
+                                <StackLayout.GestureRecognizers >
+                                    <TapGestureRecognizer Tapped="IniciarMultimedia"/>
+                                </StackLayout.GestureRecognizers>
+                                <Image Style="{DynamicResource Multi1}"/>
+                                <Label Text="Multimedia" Style="{StaticResource TextoIcono}"/>
+                            </StackLayout>-->
+                        </Grid>
+                    </ScrollView>
+                    <!-- 3RA FILA PIE DE PAGINA -->
+                    <ImageButton Style="{StaticResource EstiloBoton}" Clicked="AccesoDirecto"/>
+                </Grid>
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+
+</MasterDetailPage>

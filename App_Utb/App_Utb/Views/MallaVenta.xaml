@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:pinch="clr-namespace:Xamarin.Forms.PinchZoomImage;assembly=Xamarin.Forms.PinchZoomImage"
+             mc:Ignorable="d"
+             xmlns:behaviors1="clr-namespace:App_Utb.Behaviors"
+             x:Class="App_Utb.MallaVenta">
+    
+    <ContentView
+                    VerticalOptions="CenterAndExpand"  HorizontalOptions=" CenterAndExpand"   
+                    BackgroundColor="Transparent">
+        <pinch:PinchZoom>
+            <pinch:PinchZoom.Content>
+                <Image x:Name="MyImage" Source="{Binding mcurricular1}"/>
+            </pinch:PinchZoom.Content>
+        </pinch:PinchZoom>
+        
+    </ContentView>
+</popup:PopupPage>

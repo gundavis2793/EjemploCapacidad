@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                  xmlns:Local="clr-namespace:App_Utb"
+                  mc:Ignorable="d"
+             x:Class="App_Utb.PaginaRegistro">
+    <MasterDetailPage.Master>
+        <Local:Menu></Local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage>
+
+            <WebView Source="http://186.121.249.109/sia/Registro_nue_v3/Reg_nuevos_pre_web.aspx"></WebView>
+        </ContentPage>
+
+    </MasterDetailPage.Detail>
+
+
+</MasterDetailPage>

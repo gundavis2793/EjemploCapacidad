@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"      
+             x:Class="App_Utb.MostrarCarreraSanta">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <ContentPage>
+
+            <ContentPage.Content>
+
+                <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+                    <Grid>
+                        <Grid.ColumnDefinitions >
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions >
+                            <RowDefinition Height="180"/>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="10"/>
+                        </Grid.RowDefinitions>
+
+                        <!-- 1RA FILA IMAGEN -->
+
+                        <Image Source="{Binding imagen}" Margin="8,8,8,0" 
+                                   VerticalOptions="Center" 
+                                   Grid.Row="0"
+                                   HeightRequest="170"/>
+
+                        <!-- 2DA FILA TITULO -->
+
+                        <ScrollView Grid.Row="1" x:Name="scrol" Orientation="Vertical" VerticalOptions="StartAndExpand">
+
+                            <!-- 3RA FILA CONTENIDO -->
+
+                            <StackLayout   Margin="10">
+
+                                <Label Text="{Binding nombre}" 
+                               Style="{StaticResource TextoTitulo}"/>
+
+                                <!-- descripcion ventas-->
+                                <Button Text="descripcion de la carrera" 
+                                    Clicked="DescripcionVentas"
+                                        Style="{StaticResource BotonCarrera}"/>
+                                <Label x:Name="Descripcion" 
+                                   Style="{StaticResource TextoCarreras}" 
+                                   Text="{Binding descripcion}"/>
+                                <ImageButton  x:Name="SubirText" Style="{StaticResource subir}" Clicked="SubirDescripcion"/>
+                                <!-- perfil ventas -->
+                                <Button Text="perfil profesional"  
+                                    Clicked="PerfilVentas" Style="{StaticResource BotonCarrera}"/>
+                                <Label x:Name="Perfil" 
+                                   Style="{StaticResource TextoCarreras}" 
+                                   Text="{Binding pProfecional}"/>
+                                <ImageButton  x:Name="SubirText2" Style="{StaticResource subir}" Clicked="SubirPerfil"/>
+                                <!-- campo laboral ventas -->
+                                <Button Text="campo laboral"  
+                                    Clicked="CampoVentas" Style="{StaticResource BotonCarrera}"/>
+                                <Label x:Name="Campo" 
+                                   Style="{StaticResource TextoCarreras}" 
+                                   Text="{Binding cLaboral}"/>
+                                <ImageButton  x:Name="SubirText3" Style="{StaticResource subir}" Clicked="SubirCampo"/>
+                                <!-- campo titulacion -->
+                                <Button Text="titulacion"  
+                                    Clicked="TitulacionVentas" Style="{StaticResource BotonCarrera}"/>
+                                <Label x:Name="Titulacion" 
+                                   Style="{StaticResource TextoCarreras}" 
+                                   Text="{Binding titulacion}"/>
+                                <!-- malla curricular -->
+                                <Button Text="malla curricular"  
+                                    Clicked="MallaVentas" Style="{StaticResource BotonCarrera}"/>
+                                <StackLayout x:Name="Mallas"
+                                             IsVisible="False"
+                                             IsEnabled="False">
+                                    <Button Text="{Binding malla1}" TextColor="{DynamicResource CarMallTexto}"
+                                            x:Name="malla1" IsVisible="False"
+                                    Clicked="MallaImagene1" BackgroundColor="{DynamicResource CarMall}" Margin="15,0,15,0"/>
+
+                                    <Button Text="{Binding malla2}" TextColor="{DynamicResource CarMallTexto}"
+                                            x:Name="malla2" IsVisible="False"
+                                    Clicked="MallaImagene2" BackgroundColor="{DynamicResource CarMall}" Margin="15,0,15,0"/>
+                                </StackLayout>
+                            </StackLayout>
+
+                        </ScrollView>
+
+                        <!-- 3RA FILA PIE DE PAGINA -->
+
+                        <ImageButton   Style="{StaticResource EstiloBoton}"
+                                       Grid.Row="1"
+                                   Clicked="AccesoDirecto"/>
+
+
+                    </Grid>
+                </pancake:PancakeView>
+            </ContentPage.Content>
+        </ContentPage>
+
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

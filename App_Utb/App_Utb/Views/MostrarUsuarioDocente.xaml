@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Utb.Views.MostrarUsuarioDocente"
+                  xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+                  xmlns:local1="clr-namespace:App_Utb">
+    <MasterDetailPage.Master>
+        <local1:Menu></local1:Menu>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <ContentPage>
+            <ContentPage.Content>
+                <pancake:PancakeView Style="{StaticResource ColorFondo}">
+                    <Grid>
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="50"/>
+                            <RowDefinition Height="80"/>
+                            <RowDefinition Height="50"/>
+
+                            <RowDefinition Height="50"/>
+
+                        </Grid.RowDefinitions>
+                        <Label Text="USUARIO" Grid.Row="0"
+                               
+                               Style="{StaticResource TextoTitulo}"/>
+                        <Grid Grid.Row="1"
+                              HorizontalOptions="Center">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="70"></ColumnDefinition>
+                                <ColumnDefinition Width="70"></ColumnDefinition>
+                                <ColumnDefinition Width="70"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="20"/>
+                                <RowDefinition Height="20"/>
+                            </Grid.RowDefinitions>
+                            <Label Text="DOCENTE
+                                   " Grid.Row="0" Grid.Column="0"/>
+
+
+                            <Label Text="{Binding ap_paterno}"
+                                   Grid.Row="0" Grid.Column="1"
+                                   HorizontalOptions="Fill">
+
+                            </Label>
+                            <Label Text="{Binding ap_materno}"
+                                   Grid.Row="0" Grid.Column="2"
+                                   HorizontalOptions="Fill"></Label>
+                            <Label Text="{Binding nombre}"
+                                   Grid.Row="0" Grid.Column="3"
+                                   HorizontalOptions="Fill"></Label>
+                            <Label Text="GESTION:"
+                                   Grid.Column="0"
+                                   Grid.Row="1"></Label>
+                            <Label Text="{Binding gestion}"
+                               Grid.Column="1"
+                               Grid.Row="1"
+                               HorizontalOptions="Fill"/>
+                            <Label Text=" PERIODO"
+                                   Grid.Column="2"
+                                   Grid.Row="1">
+
+                            </Label>
+                            <Label Text="{Binding periodo}"
+                               Grid.Column="3"
+                               Grid.Row="1"
+                               HorizontalOptions="Fill"/>
+                        </Grid>
+                        <Label Text="CARRERAS" Grid.Row="3"
+                              
+                               Style="{StaticResource TextoTitulo}"/>
+                        <ScrollView Grid.Row="4">
+                            <ListView x:Name="listaCarrerasssss"
+                                      >
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <ViewCell>
+                                            <Grid>
+                                                <Label Text="{Binding nombre_carrera}"></Label>
+                                            </Grid>
+
+                                        </ViewCell>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </ScrollView>
+
+                    </Grid>
+
+                </pancake:PancakeView>
+            </ContentPage.Content>
+
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

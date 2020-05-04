@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.PagLatUsuario"
+                          xmlns:local1="clr-namespace:App_Utb.Controls"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit">
+
+
+
+        <pancake:PancakeView Style="{StaticResource ColorFondo}">
+
+            <StackLayout VerticalOptions="Start" Margin="8">
+                <Label Text="Usuario"
+                   VerticalOptions="Center"
+                   Style="{StaticResource TextoTitulo}"
+                   FontSize="22"/>
+
+                <!--  <local1:EnumPicker ios:Picker.UpdateMode="WhenFinished"
+                          EnumType="{x:Type  local:Theme}"
+                          Title="Selecione Tema"
+                          SelectedIndexChanged="OnPickerSelectionChanged" />
+            <Label x:Name="statusLabel"
+               HorizontalOptions="Center" /> -->
+
+            <StackLayout VerticalOptions="Center"
+                         HorizontalOptions="Center">
+
+               
+                <Button
+                    Text="LOGIN"
+                    Clicked="Button_Clicked_Loguear"
+                    Style="{StaticResource BotonCarrera}"
+                    CornerRadius="50"></Button>
+                <BoxView HeightRequest="30"/>
+            </StackLayout>
+
+
+
+  
+            <StackLayout VerticalOptions="Center"
+                         HorizontalOptions="Center">
+
+                <Button x:Name="Boton_Continuar"
+                    Text="Continuar Como"
+                    Clicked="BotonContinuar"
+                        CornerRadius="50"
+                        Style="{StaticResource BotonCarrera}"></Button>
+
+            </StackLayout>  
+
+
+            </StackLayout>
+
+
+        </pancake:PancakeView>
+    </ContentPage>

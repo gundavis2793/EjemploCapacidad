@@ -1,0 +1,419 @@
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta2.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Menu.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarCarrera.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarNoticia.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTalleres.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTest.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCalendario.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarrera.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeportes.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaMultimedia.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNoticia.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNotificaciones.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaPosgrado.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaRegistro.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaSistema.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTalleres.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTest.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaUbicacion.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatCerrar.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatConfig.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatHacerca.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatRedes.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatUsuario.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PiePagina.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ToolbarItem.xaml.g.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\Desarrollo\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.dll
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.xml
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta2.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Menu.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarCarrera.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarNoticia.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTalleres.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTest.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCalendario.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarrera.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeportes.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaMultimedia.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNoticia.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNotificaciones.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaPosgrado.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaRegistro.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaSistema.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTalleres.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTest.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaUbicacion.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatCerrar.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatConfig.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatHacerca.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatRedes.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatUsuario.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PiePagina.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ToolbarItem.xaml.g.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CopyComplete
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\3.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MallaVenta2.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Menu.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarCarrera.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarNoticia.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTalleres.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarTest.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCalendario.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarrera.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeportes.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaMultimedia.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNoticia.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaNotificaciones.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaPosgrado.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaRegistro.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaSistema.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTalleres.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaTest.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaUbicacion.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatCerrar.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatConfig.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatHacerca.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatRedes.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PagLatUsuario.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PiePagina.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ToolbarItem.xaml.g.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\Desarrollo\4.0 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\IniciarTest.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta2.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Menu.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarCarrera.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNoticia.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTalleres.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTest.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCalendario.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCarrera.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaDeportes.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaMultimedia.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNoticia.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNotificaciones.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaPosgrado.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaRegistro.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaSistema.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTalleres.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTest.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUbicacion.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUsuario.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatCerrar.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatConfig.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatHacerca.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatRedes.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatUsuario.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PiePagina.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\ToolbarItem.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuario.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuarioDocente.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarMaterias.xaml.g.cs
+E:\AppUtb(SQlite)\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNotas.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\IniciarTest.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta2.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Menu.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarCarrera.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarMaterias.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNotas.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNoticia.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTalleres.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTest.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuario.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuarioDocente.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCalendario.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCarrera.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaDeportes.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaMultimedia.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNoticia.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNotificaciones.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaPosgrado.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaRegistro.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaSistema.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTalleres.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTest.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUbicacion.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUsuario.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatCerrar.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatConfig.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatHacerca.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatRedes.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatUsuario.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PiePagina.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\ToolbarItem.xaml.g.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarListaEstudiantes.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.xml
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarListaEstudiante.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreraEstudiante.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeudas.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Docente.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\EstudianteStyle.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Invitado.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Desarrolladores.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\IniciarTest.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta2.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Menu.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarCarrera.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarListaEstudiantes.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarMaterias.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNotas.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNoticia.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTalleres.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTest.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuario.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuarioDocente.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCalendario.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCarrera.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaDeportes.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaMultimedia.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNoticia.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNotificaciones.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaPosgrado.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaRegistro.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaSistema.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTalleres.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTest.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUbicacion.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUsuario.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatCerrar.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatConfig.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatHacerca.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatRedes.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatUsuario.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PiePagina.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\ToolbarItem.xaml.g.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CopyComplete
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\16 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.xml
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarListaEstudiante.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreraEstudiante.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeudas.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Docente.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\EstudianteStyle.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Invitado.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Desarrolladores.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\IniciarTest.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta2.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Menu.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarCarrera.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarListaEstudiantes.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarMaterias.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNotas.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNoticia.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTalleres.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTest.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuario.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuarioDocente.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCalendario.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCarrera.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaDeportes.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaMultimedia.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNoticia.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNotificaciones.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaPosgrado.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaRegistro.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaSistema.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTalleres.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTest.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUbicacion.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUsuario.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatCerrar.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatConfig.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatHacerca.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatRedes.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatUsuario.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PiePagina.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\ToolbarItem.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CopyComplete
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarCarreraSanta.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreras2.xaml.g.cs
+C:\17 Aplicacion UTB\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreraSanta.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.deps.json
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\ref\App_Utb.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\App_Utb.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb\bin\Release\netstandard2.0\Mono.Android.xml
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csprojAssemblyReference.cache
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarCarreraSanta.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\MostrarListaEstudiantes.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCargando.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreraEstudiante.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreras2.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaCarreraSanta.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\PaginaDeudas.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Claro.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Docente.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\EstudianteStyle.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Invitado.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Original.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Themes\Oscuro.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Desarrolladores.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\IniciarTest.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MallaVenta2.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\Menu.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarCarrera.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarMaterias.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNotas.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarNoticia.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTalleres.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarTest.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuario.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\MostrarUsuarioDocente.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCalendario.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaCarrera.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaDeportes.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaMultimedia.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNoticia.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaNotificaciones.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaPosgrado.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaRegistro.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaSistema.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTalleres.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaTest.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUbicacion.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PaginaUsuario.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatCerrar.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatConfig.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatHacerca.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatRedes.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PagLatUsuario.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\PiePagina.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\Views\ToolbarItem.xaml.g.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfoInputs.cache
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.AssemblyInfo.cs
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\XamlC.stamp
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CopyComplete
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\ref\App_Utb.dll
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.pdb
+C:\Osmi\App_Utb\App_Utb\App_Utb\obj\Release\netstandard2.0\App_Utb.csproj.CoreCompileInputs.cache

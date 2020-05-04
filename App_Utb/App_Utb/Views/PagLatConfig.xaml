@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:local1="clr-namespace:App_Utb.Controls"
+             xmlns:local="clr-namespace:App_Utb"
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core"
+             xmlns:input="clr-namespace:Plugin.InputKit.Shared.Controls;assembly=Plugin.InputKit"
+             x:Class="App_Utb.PagLatConfig">
+    <pancake:PancakeView Style="{StaticResource ColorFondo}">
+        
+        <StackLayout VerticalOptions="Start" Margin="8">
+            <Label Text="Configuracion"
+                   VerticalOptions="Center"
+                   Style="{StaticResource TextoTitulo}"
+                   FontSize="22"/>
+            <Label Style="{StaticResource TituloTextList}"
+                   FontSize="18"
+                   Text="APARIENCIA"/>
+            <!--  <local1:EnumPicker ios:Picker.UpdateMode="WhenFinished"
+                          EnumType="{x:Type  local:Theme}"
+                          Title="Selecione Tema"
+                          SelectedIndexChanged="OnPickerSelectionChanged" />
+            <Label x:Name="statusLabel"
+               HorizontalOptions="Center" /> -->
+
+            
+
+            <StackLayout Spacing="12" Padding="30,0"> 
+
+                <input:RadioButtonGroupView 
+                    x:Name="radio"
+                    >
+                    <input:RadioButton Text="Original" Clicked="Original"
+                                       TextFontSize="14"
+                                       x:Name="radio1"
+                                       
+                                       TextColor="{DynamicResource RadioTexto}"
+                                       CircleColor="{DynamicResource RadioColor}"/>
+                    <input:RadioButton Text="Claro" Clicked="Claro"
+                                       x:Name="radio2"
+                                       TextFontSize="14"
+                                       TextColor="{DynamicResource RadioTexto}"
+                                       CircleColor="{DynamicResource RadioColor}"/>
+                    <input:RadioButton Text="Oscuro" Clicked="Oscuro"
+                                       x:Name="radio3"
+                                       TextFontSize="14" 
+                                       TextColor="{DynamicResource RadioTexto}"
+                                       CircleColor="{DynamicResource RadioColor}"/>
+                </input:RadioButtonGroupView>
+
+            </StackLayout>
+            <BoxView HeightRequest="30"/>
+
+       
+        </StackLayout>
+        
+        
+    </pancake:PancakeView>
+</ContentPage>

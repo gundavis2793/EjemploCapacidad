@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:circleImage="clr-namespace:ImageCircle.Forms.Plugin.Abstractions;assembly=ImageCircle.Forms.Plugin"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App_Utb.Menu"
+             Title="Menu"
+             BackgroundColor="{DynamicResource MenuConte}" >
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Order="Primary"
+                     Priority="1"
+                     IconImageSource="IconMenu"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+
+        </Grid.ColumnDefinitions >
+        <StackLayout Grid.Row="0" Grid.ColumnSpan="4" BackgroundColor="{DynamicResource MenuEnca}">
+            <!--<Image Source="logoutblarg.png" BackgroundColor="{DynamicResource MenuEnca}"   Style="{DynamicResource Doc6}"/>-->
+            <circleImage:CircleImage Style="{DynamicResource Doc5}" x:Name="Img" HeightRequest="60" WidthRequest="60" HorizontalOptions="Center" VerticalOptions="Center" Margin="10,10,10,10" />
+            <Label x:Name="labelnombre" Margin="8,0,0,0" 
+                   TextColor="{DynamicResource NotaEnca}" FontAttributes="Bold"/>
+            <!-- 0 IMAGEN ENCABEZADO -->
+
+        </StackLayout>
+        <Label  Grid.Row="1" Grid.ColumnSpan="1" Text="Opciones" FontSize="18" HorizontalOptions="Start" Margin="10,0,0,0" FontAttributes="Bold" TextColor="{DynamicResource MenuTitulo}"></Label>
+
+        <Label  Text="Opciones" FontSize="18" HorizontalOptions="Start"
+                Grid.Row="1" Grid.ColumnSpan="1"
+                Margin="10,0,0,0"    
+                FontAttributes="Bold" 
+                TextColor="{DynamicResource MenuTitulo}">
+        </Label>
+        <ImageButton Grid.Row="2" 
+                         Grid.Column="0"
+                         Clicked="InicioUsuario" 
+                         Style="{DynamicResource Usuario1}"/>
+        <ImageButton Grid.Row="3"
+                         Grid.Column="0"
+                         Clicked="InicioHacerca" 
+                         Style="{DynamicResource Info1}"/>
+        <ImageButton Grid.Row="4"
+                         Grid.Column="0"
+                         Clicked="InicioConfiguracion" 
+                         Style="{DynamicResource Config1}"/>
+        <ImageButton Grid.Row="5"
+                         Grid.Column="0"
+                     x:Name="IconoCerrar"
+                         Clicked="CerrarApp" 
+                         Style="{DynamicResource Cerrar1}"/>
+        <Label  
+                   Grid.Column="1"
+                x:Name="LabelInicio"
+                Grid.ColumnSpan="3"
+                   Grid.Row="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="InicioUsuario"/>
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Acerca de..." 
+                   Grid.Column="1"
+                   Grid.Row="3"
+               Grid.ColumnSpan="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="InicioHacerca" />
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Configuracion" 
+                   Grid.Column="1"
+                   Grid.Row="4"
+               Grid.ColumnSpan="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="InicioConfiguracion" />
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Cerrar Sesion" 
+               Grid.Column="1" 
+               Grid.Row="5"
+               Grid.ColumnSpan="3"
+               x:Name="BotonCerrar"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="CerrarApp" />
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Redes Sociales" FontSize="18" VerticalOptions="Start" 
+               HorizontalOptions="Start" 
+               Grid.Row="6"
+               Margin="10,0,0,0" 
+               FontAttributes="Bold"
+               Grid.ColumnSpan="2"
+               TextColor="{DynamicResource MenuTitulo}"/>
+
+        <ImageButton Grid.Row="7"
+                         Grid.Column="0"
+                         Clicked="OpenWhatsApp"
+                         Source="Watsp.png"
+                         Style="{StaticResource MenuIconos}"/>
+        <ImageButton Grid.Row="8"
+                         x:Name="BotonFace"
+                         Clicked="OpenFacebook"
+                         Source="face.png"
+                         Style="{StaticResource MenuIconos}"/>
+        <ImageButton Grid.Row="9"
+                         Grid.Column="0"
+                         Clicked="OpenTwitter"
+                         Source="twiter.png"
+                         Style="{StaticResource MenuIconos}"/>
+        <Label Text="(+591)68081180"
+                   Grid.Column="1"
+                   Grid.Row="7"
+               Grid.ColumnSpan="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OpenWhatsApp" />
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Facebook/utb" 
+                   Grid.Column="1"
+                   Grid.Row="8"
+               Grid.ColumnSpan="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OpenFacebook" />
+            </Label.GestureRecognizers>
+        </Label>
+        <Label Text="Twitter/#utb bolivia" 
+                   Grid.Column="1"
+                   Grid.Row="9"
+               Grid.ColumnSpan="2"
+                   Style="{StaticResource MenuTextos}">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OpenTwitter" />
+            </Label.GestureRecognizers>
+        </Label>
+
+
+        <!-- 1 Redes Sociales -->
+
+
+    </Grid>
+
+</ContentPage>

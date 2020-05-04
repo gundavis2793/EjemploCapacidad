@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App_Utb.PiePagina">
+
+
+    <StackLayout      HorizontalOptions="End"  VerticalOptions="End" BackgroundColor="Transparent"   
+                            HeightRequest="200" WidthRequest="80"
+                            AbsoluteLayout.LayoutBounds="1,.20,1,.666"
+                            AbsoluteLayout.LayoutFlags="All">
+
+        <!--<ImageButton  Source="UbicacionIcon"
+                            Clicked="AbrirUbicacion"
+                            Margin="10,10,20,10"
+                            HeightRequest="40"
+                            WidthRequest="40"
+                            BackgroundColor="#bbbcbe"                         
+                            CornerRadius="90"
+                            AbsoluteLayout.LayoutFlags="All"
+                            AbsoluteLayout.LayoutBounds=".8,.5,.2,.2"
+                            HorizontalOptions="End"></ImageButton>-->
+
+        <ImageButton  Source="UbicacionIcon" 
+                            BackgroundColor="Transparent" 
+                            Clicked="AbrirUbicacion"
+                            Margin="10,10,20,10"
+                            HeightRequest="40"
+                            WidthRequest="40"
+                            CornerRadius="90"
+                            AbsoluteLayout.LayoutFlags="All"
+                            AbsoluteLayout.LayoutBounds=".8,.0,.2,.2"
+                            HorizontalOptions="End"></ImageButton>
+
+        <ImageButton  Source="InicioIcon"                           
+                            BackgroundColor="#bbbcbe"
+                            AbsoluteLayout.LayoutFlags="All"
+                            AbsoluteLayout.LayoutBounds=".8,1,.2,.2"
+                            Clicked="AbrirMenu"
+                            Margin="10,10,20,10"
+                            HeightRequest="40"
+                            WidthRequest="40"
+                            CornerRadius="90"
+                            HorizontalOptions="End"></ImageButton>
+
+    </StackLayout>
+
+</popup:PopupPage >

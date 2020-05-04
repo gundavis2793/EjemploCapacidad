@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             xmlns:Local="clr-namespace:App_Utb"
+             x:Class="App_Utb.MostrarNoticia">
+    <MasterDetailPage.Master>
+        <Local:Menu></Local:Menu>
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail >
+        <ContentPage >
+     
+    <ContentPage.Content>
+        
+        <pancake:PancakeView Style="{StaticResource ColorFondo}">
+            
+
+            <Grid>
+                <Grid.ColumnDefinitions >
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="10"/>
+                </Grid.RowDefinitions>
+
+                <!-- 1RA FILA TITULO -->
+
+                    <Label Text="{Binding titulo}"
+                           TextType="Html"
+                           Grid.Row="0"
+                           Style="{StaticResource TextoTitulo}" FontSize="22"/>
+
+                <!-- 2DA FILA IMAGEN -->
+                <ScrollView Grid.Row="1" >
+                    <StackLayout Margin="10">
+                                <Image x:Name="ImagenNoticia" Source="{Binding imagen}"  Margin="0,0,0,5" HeightRequest="200" WidthRequest="450">
+                                </Image>
+                                <!-- 3RA FILA CONTENIDO -->
+                    
+                        <Label Text="{Binding fecha}"                           
+                           TextColor="{DynamicResource MosNotTexFecha}"
+                           FontAttributes="Bold" 
+                           BackgroundColor="{DynamicResource MosNotFonFecha}"
+                           VerticalOptions="End"
+                           HeightRequest="30"
+                           WidthRequest="150"
+                           HorizontalOptions="Start"
+                           HorizontalTextAlignment="Center"
+                           VerticalTextAlignment="Center" />
+
+                        <Label Text="{Binding contenido}"
+                               TextType="Html"
+                               LineBreakMode="WordWrap"
+                               TextColor="{DynamicResource MosNotConte}" />
+
+                    </StackLayout>
+                </ScrollView>
+                <!-- 3RA FILA PIE DE PAGINA -->
+
+                <ImageButton   Style="{StaticResource EstiloBoton}"
+                                   Clicked="AccesoDirecto"
+                               Grid.Row="1"/>
+
+            </Grid>
+        </pancake:PancakeView>
+    </ContentPage.Content>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

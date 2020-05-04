@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<popup:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App_Utb.Views.MostrarNotas"
+    xmlns:popup="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center"  HeightRequest="550" WidthRequest="250"  BackgroundColor="Transparent">
+        <Frame CornerRadius="50" BackgroundColor="{DynamicResource MosCarBotFondo}">
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Text="{Binding descricion}"
+                       HorizontalOptions="CenterAndExpand"
+                       Grid.ColumnSpan="2"
+                       Grid.Column="0"
+                       TextColor="{DynamicResource NotiTitulo}" FontSize="20" 
+                       FontAttributes="Bold"
+                       Grid.Row="0"/>
+                <StackLayout Grid.Row="1" Grid.ColumnSpan="2" Grid.Column="0">
+                    
+
+                    <Label x:Name="UnidadLabel" TextColor="{DynamicResource MosCarBotTexto}"
+                       FontSize="12"/>
+                    <Label Text="HORARIO" TextColor="{DynamicResource NotaEnca}"></Label>
+                    <Label x:Name="DiaLabel" TextColor="{DynamicResource MosCarBotTexto}"
+                       FontSize="12"/>
+                    <Label x:Name="HorarioLabel" TextColor="{DynamicResource MosCarBotTexto}"
+                       FontSize="12"/>
+                </StackLayout>
+
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                       Text="NOTAS PRIMER PARCIAL"
+                       Grid.Column="0"
+                       Grid.ColumnSpan="2"
+                           Grid.Row="4"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Asistencia"
+                           Grid.Column="0"
+                           Grid.Row="5"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_asistencia1}"
+                           Grid.Column="1"
+                           Grid.Row="5"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Practicas"
+                           Grid.Column="0"
+                           Grid.Row="6"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_practicas1}"
+                           Grid.Column="1"
+                           Grid.Row="6"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Examen"
+                           Grid.Column="0"
+                           Grid.Row="7"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_examen1}"
+                           Grid.Column="1"
+                           Grid.Row="7"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Total"
+                           Grid.Column="0"
+                           Grid.Row="8"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_1}"
+                           Grid.Column="1"
+                           Grid.Row="8"/>
+
+
+
+
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                   Margin="10,0,10,0"
+                           Text="NOTAS SEGUNDO PARCIAL" Grid.ColumnSpan="2"
+                           Grid.Column="0"
+                           Grid.Row="9"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Asistencia"
+                           Grid.Column="0"
+                           Grid.Row="10"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_asistencia2}"
+                           Grid.Column="1"
+                           Grid.Row="10"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Practicas"
+                           Grid.Column="0"
+                           Grid.Row="11"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_practicas2}"
+                           Grid.Column="1"
+                           Grid.Row="11"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Examen"
+                           Grid.Column="0"
+                           Grid.Row="12"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_examen2}"
+                           Grid.Column="1"
+                           Grid.Row="12"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Total"
+                           Grid.Column="0"
+                           Grid.Row="13"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_2}"
+                           Grid.Column="1"
+                           Grid.Row="13"/>
+
+
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="NOTAS TERCER PARCIAL"
+                           Grid.Column="0" Grid.ColumnSpan="2"
+                           Grid.Row="14"/>
+                <Label TextColor="{DynamicResource NotaTexto}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="Examen"
+                           Grid.Column="0"
+                           Grid.Row="15"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding nota_examen_final}"
+                           Grid.Column="1"
+                           Grid.Row="15"/>
+
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="NOTA FINAL "
+                           Grid.Column="0"
+                           Grid.Row="16"/>
+                <Label TextColor="{DynamicResource NotaEnca}" FontSize="12" FontAttributes="Bold"
+                    Margin="10,0,10,0"
+                           Text="{Binding notaf}"
+                           Grid.Column="1"
+                           Grid.Row="16"/>
+            </Grid>
+        </Frame>
+    </StackLayout>
+</popup:PopupPage>

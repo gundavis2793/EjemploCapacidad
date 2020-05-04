@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"            
+             x:Class="App_Utb.PagLatHacerca">
+    <pancake:PancakeView Style="{StaticResource ColorFondo}">
+        
+        <StackLayout  HorizontalOptions="Center" VerticalOptions="Center" >
+           
+            <Label Text="UTB APLICACIÓN " 
+                   TextColor="{DynamicResource HacerTitulo}" 
+                   FontAttributes="Bold"             
+               HorizontalOptions="Center" 
+               FontSize="25"
+                   FontFamily="{StaticResource FuenteBerlin}"></Label>
+            <Label Text="Version 1.0" TextColor="{DynamicResource HacerContenido}"
+                   FontSize="20" FontAttributes="Bold" 
+                   HorizontalOptions="Center"/>
+            <Image Source="logo2.png" 
+               x:Name="imagen" HeightRequest="130" Opacity="0.8" Margin="10">
+                <Image.GestureRecognizers>
+                    <TapGestureRecognizer Tapped="imagen_Clicked"/>
+                </Image.GestureRecognizers>
+            </Image>
+            <Label Text="© 2020 UTB S.A. Todos los Derechos Reservados."
+                   FontSize="18" TextColor="{DynamicResource HacerContenido}"
+                   HorizontalTextAlignment="Center" FontAttributes="Bold" />
+            <BoxView HeightRequest="25"/>
+            <ImageButton 
+                         HeightRequest="40"
+                         VerticalOptions="End"
+                         HorizontalOptions="Center"
+                         Clicked="Llamar"
+                         
+                         Source="llamar"></ImageButton>
+            <StackLayout
+                 Grid.Row="2"></StackLayout>
+        </StackLayout>
+    </pancake:PancakeView>
+</ContentPage>

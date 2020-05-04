@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:local="clr-namespace:App_Utb"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.PaginaCarreraEstudiante">
+    <MasterDetailPage.Master>
+        <local:Menu></local:Menu>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+    <ContentPage>
+            <pancake:PancakeView Style="{StaticResource ColorFondo}">
+                <Grid >
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions >
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="10"/>
+                    </Grid.RowDefinitions>
+                    <Label Text="CARRERAS" Grid.Row="1"
+                               Style="{StaticResource TextoTitulo}"/>
+                    <Image Source="EncaCarrera" 
+                       VerticalOptions="Center" 
+                       Grid.Row="0" Margin="0,10,0,0"/>
+                    <BoxView HeightRequest="45"/>
+
+                    <ListView x:Name="listaCarr" 
+                          ItemsSource="{Binding .}"
+                          ItemTapped="ListaCarrerasssss_ItemTapped" Grid.Row="2"
+                          HasUnevenRows="true"
+                          RefreshControlColor="Black"
+                          VerticalOptions="Center"
+                          SeparatorVisibility="None">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell >
+                                    <Grid Margin="15,5,15,5">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto" />
+                                            <ColumnDefinition Width="*" />
+                                            <ColumnDefinition Width="AUTO"/>
+                                        </Grid.ColumnDefinitions>
+                                        <StackLayout Margin="10">
+                                        <Label Text="{Binding nombre_carrera}" 
+                                           Style="{StaticResource TituloTextList}" 
+                                           Grid.Column="1"/>
+                                        </StackLayout>
+                                        <Image Style="{StaticResource ImagenSig}"
+                                               Grid.Column="2"/>
+                                        <BoxView x:Name="LineaBox" 
+                                             Style="{StaticResource LineaDiv}" Margin="0,0,0,0"/>
+                                        <BoxView x:Name="LineaBoxx" 
+                                             Style="{StaticResource LineaDiv}" Margin="0,10,0,0"
+                                             HeightRequest="5" Opacity="0.2"/>
+
+                                    </Grid>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+                    <!-- 3RA Pie de Pagina -->
+                    <ImageButton   Style="{StaticResource EstiloBoton}"
+                                   Grid.Row="2"
+                                   Clicked="AccesoDirecto"/>
+
+                </Grid>
+            </pancake:PancakeView>
+        </ContentPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

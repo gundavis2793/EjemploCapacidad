@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:pancake="clr-namespace:Xamarin.Forms.PancakeView;assembly=Xamarin.Forms.PancakeView"
+             x:Class="App_Utb.PaginaUsuario">
+    <ContentPage.Content>
+        
+        <pancake:PancakeView Style="{StaticResource ColorFondo}">
+            <StackLayout VerticalOptions="Center">
+                
+
+                <Grid
+                VerticalOptions="Center"
+            x:Name="Grid_Contains">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="AUTO"/>
+                        <RowDefinition Height="AUTO"/>
+                        <RowDefinition Height="AUTO"/>
+                    </Grid.RowDefinitions>
+                <Frame BackgroundColor="White"
+                   Grid.Row="0"
+                   x:Name="frame_cod"
+                       Opacity=".7"
+                   CornerRadius="90"
+                   HorizontalOptions="Center"
+                   VerticalOptions="End"
+                   WidthRequest="200">
+                    <Entry Placeholder="USUARIO"
+                       x:Name="correoEntry"
+                       BackgroundColor="White"/>
+                </Frame>
+                <Frame x:Name="frame_Contrasena"
+                BackgroundColor="White"
+                       Opacity="0.7"
+                   Grid.Row="1" 
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   CornerRadius="90"
+                   WidthRequest="200">
+                    <Entry Placeholder="CONTRASEÑA"
+                       x:Name="contrasenaEntry"
+                       IsPassword="True"
+                       BackgroundColor="White"/>
+                </Frame>
+                    <Frame BackgroundColor="{DynamicResource MosCarBotFondo}"
+                       Opacity="0.7"
+                   x:Name="frame_Boton"
+                   Grid.Row="3" 
+                   HorizontalOptions="Center"
+                   VerticalOptions="Start"
+                   CornerRadius="90"
+                   WidthRequest="200">
+
+                    <Button x:Name="BotonInicioSesion"
+                    Text="Iniciar Sesion"
+                    Grid.Row="3"
+                            Clicked="Iniciar_Sesion_Clicked"
+                            Style="{StaticResource BotonCarrera}"
+                            BorderColor="{DynamicResource MosCarBotFondo}"></Button>
+                </Frame>
+            </Grid>
+        </StackLayout>
+
+        </pancake:PancakeView>
+    </ContentPage.Content>
+</ContentPage>
